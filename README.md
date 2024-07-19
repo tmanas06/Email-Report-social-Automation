@@ -2,6 +2,8 @@
 
 This Python project automates the process of sending reports via email. It is specifically designed to send social reports, but can be adapted for various types of email reports. The script uses Python's `smtplib` for email sending, `ssl` for secure connections, and `configparser` for configuration management.
 
+# note
+If you are stuck use the documentation in the repository to find steps to get your google cloud service key , google cloud client key and gmail hash password.
 ## Getting Started
 
 Follow these instructions to get the project up and running on your local machine for development and testing purposes.
