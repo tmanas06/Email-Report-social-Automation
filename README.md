@@ -16,13 +16,23 @@ Follow these instructions to get the project up and running on your local machin
 ### Installation
 
 1. Clone the repository to your local machine.
-   ```bash
+```bash
    git clone
-3. Navigate to the project directory.
-4. Install the required Python packages by running:
+```
+2. Install the required Python packages by running:
 
 ```bash
 pip install -r requirements.txt
+```
+
+3. Navigate to the project directory.
+ ```bash
+   cd Email-social-report_automatically
+```
+
+4. run the code
+```bash
+   python mail.py
 ```
 
 # Input
