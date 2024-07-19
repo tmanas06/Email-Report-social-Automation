@@ -14,12 +14,14 @@ Follow these instructions to get the project up and running on your local machin
 ### Installation
 
 1. Clone the repository to your local machine.
-2. Navigate to the project directory.
-3. Install the required Python packages by running:
+   ```bash
+   git clone
+3. Navigate to the project directory.
+4. Install the required Python packages by running:
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 # Input
 ![image](https://github.com/user-attachments/assets/15acad5e-fd8d-4586-914c-ca3b6b6e2a97)
