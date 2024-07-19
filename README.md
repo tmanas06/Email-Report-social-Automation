@@ -1,5 +1,24 @@
-# Social Analutics extraction nd automated email report
+# Social Analytics extraction nd automated email report
 
+This Python project automates the process of sending reports via email. It is specifically designed to send social reports, but can be adapted for various types of email reports. The script uses Python's `smtplib` for email sending, `ssl` for secure connections, and `configparser` for configuration management.
+
+## Getting Started
+
+Follow these instructions to get the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+- Python 3.x installed on your machine.
+- A Gmail account with either "Allow less secure apps" enabled (not recommended) or an App Password set up if 2-Step Verification is enabled.
+
+### Installation
+
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Install the required Python packages by running:
+
+```bash
+pip install -r requirements.txt
 
 
 # Input
