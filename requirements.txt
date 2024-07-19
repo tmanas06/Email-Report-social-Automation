@@ -1,0 +1,7 @@
+Flask==3.0.3
+google_api_python_client==2.130.0
+google_auth_oauthlib==1.2.0
+ntscraper==0.3.13
+numpy==2.0.0
+pandas==2.2.2
+protobuf==5.27.1

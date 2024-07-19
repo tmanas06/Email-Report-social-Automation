@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Report</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Google Analytics Data</h1>
+    {% for table in analytics_tables %}
+        <h2>Analytics Data</h2>
+        {{ table|safe }}
+    {% endfor %}
+    
+    <h1>Google Search Console Data</h1>
+    {% for table in search_tables %}
+        <h2>Search Data</h2>
+        {{ table|safe }}
+    {% endfor %}
+    
+    <h1>Twitter Data</h1>
+    {% for table in twitter_tables %}
+        <h2>Twitter Data</h2>
+        {{ table|safe }}
+    {% endfor %}
+</body>
+</html>

@@ -1,0 +1,1524 @@
+{
+    "profile_info": {
+        "image": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_400x400.jpg",
+        "name": "Wallet Hunter",
+        "username": "@wallet_hunter",
+        "id": "1647538985227415552",
+        "bio": "Wallet segmentation and Profiling tool. \n\nWe can help you find your right audience based on their on-chain activity",
+        "location": "",
+        "website": "https://linktr.ee/wallethunter",
+        "joined": "9:55 AM - 16 Apr 2023",
+        "stats": {
+            "tweets": 201,
+            "following": 81,
+            "followers": 113,
+            "likes": 9,
+            "media": 0
+        }
+    },
+    "tweets": {
+        "tweets": [
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1811858732185514467#m",
+                "text": "\ud83d\udcf2 Mobile Apps  Mobile apps like MetaMask, Trust Wallet, and Exodus allow traders to manage their crypto assets on the go, providing convenience and accessibility. #MobileCrypto #CryptoApps",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 12, 2024 \u00b7 8:22 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 0,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1811858729790279891#m",
+                "text": "\ud83d\udd0d On-Chain Analytics  On-chain analytics tools like Glassnode, Chainalysis, and Nansen provide insights into blockchain data, helping traders understand market movements and make data-driven decisions. #OnChainAnalytics #CryptoTrading",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 12, 2024 \u00b7 8:22 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1811858727101956389#m",
+                "text": "\ud83c\udf10 DeFi Platforms  Decentralized finance (DeFi) platforms like Uniswap, Aave, and Compound enable traders to participate in lending, borrowing, and trading without intermediaries. #DeFi #CryptoTrading",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 12, 2024 \u00b7 8:22 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1811858724560187800#m",
+                "text": "\ud83d\udcda Education Platforms  Learning is ongoing in crypto. Platforms like Coursera, Udemy, and YouTube offer courses, tutorials, and videos to help traders enhance their knowledge and skills. #CryptoEducation #LearnCrypto",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 12, 2024 \u00b7 8:22 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1811858721414447477#m",
+                "text": "\ud83c\udf10 Blockchain Explorers  Blockchain explorers like Etherscan, Blockchain.com, and BscScan allow traders to view transaction histories, track wallet balances, and verify the status of blockchain transactions. #BlockchainExplorers #CryptoTrading",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 12, 2024 \u00b7 8:22 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "http://Blockchain.com",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1811858718826312189#m",
+                "text": "\ud83d\udd12 Security Tools  Security is paramount in crypto trading. Tools like Ledger and Trezor hardware wallets, 2FA apps like Google Authenticator, and VPNs help protect your assets and ensure safe trading. #CryptoSecurity #CryptoTrading",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 12, 2024 \u00b7 8:22 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1811858716381315383#m",
+                "text": "\ud83d\udcca Technical Analysis Tools  Technical analysis tools like TradingView, CryptoCompare, and Coinigy offer advanced charting capabilities, indicators, and drawing tools to help traders analyze price patterns and trends. #TechnicalAnalysis #CryptoTrading",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 12, 2024 \u00b7 8:22 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1811858713759605007#m",
+                "text": "\ud83d\udcf0 News Aggregators  Staying updated with the latest crypto news is crucial. Tools like CryptoPanic, CoinTelegraph, and CoinDesk provide real-time news and updates from the crypto world. #CryptoNews #NewsAggregators",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 12, 2024 \u00b7 8:22 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1811858711230709863#m",
+                "text": "\u2699\ufe0f Trading Bots  Automated trading bots like 3Commas, CryptoHopper, and TradeSanta execute trades based on predefined strategies, helping traders maximize profits and minimize risks without constant monitoring. #TradingBots #CryptoTrading",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 12, 2024 \u00b7 8:22 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1811858708315422766#m",
+                "text": "\ud83d\udcc9 Portfolio Trackers  Portfolio trackers like Blockfolio, Delta, and CoinStats help traders monitor their crypto holdings, track performance, and manage their investments across multiple exchanges and wallets. #PortfolioTracking #CryptoTrading",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 12, 2024 \u00b7 8:22 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1811858706004578701#m",
+                "text": "\ud83d\udd0d Market Data and Analysis  Tools like CoinMarketCap, CoinGecko, and TradingView offer real-time market data, charts, and analysis to help traders make informed decisions. They provide insights into price movements, volume, and market trends. #MarketData #CryptoAnalysis",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 12, 2024 \u00b7 8:22 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 1
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1811858703546523833#m",
+                "text": "\ud83d\udcc8 Trading Platforms  Trading platforms like Binance, Coinbase, and Kraken provide the infrastructure to buy, sell, and trade cryptocurrencies. They offer various features and user interfaces to suit different trading needs. #TradingPlatforms #CryptoTrading",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 12, 2024 \u00b7 8:22 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1811858701088882944#m",
+                "text": "\ud83d\ude80 Welcome to our Crypto Trading Tools Series! \ud83d\udd27  In the world of crypto trading, having the right tools can make a significant difference. Let\u2019s explore some essential tools every crypto trader should have. Join us! #CryptoTrading #CryptoTools #Blockchain",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 12, 2024 \u00b7 8:22 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1811411209540751590#m",
+                "text": "\ud83d\udd17 Polkadot  Polkadot is a multi-chain framework that allows different blockchains to interoperate. It consists of a main relay chain and multiple parachains, enhancing scalability and flexibility. #Polkadot #ModularChain",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 11, 2024 \u00b7 2:44 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 0,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1811411205963088251#m",
+                "text": "\ud83c\udf09 Arbitrum  Arbitrum is a Layer 2 solution for Ethereum that uses rollups to improve scalability and reduce transaction costs. It aims to enhance the user experience on Ethereum. #Arbitrum #Layer2",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 11, 2024 \u00b7 2:44 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 1
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1811411202548941231#m",
+                "text": "\ud83c\udf10 Sidechains  Sidechains are independent blockchains that run parallel to a mainchain (e.g., Ethereum) and are interoperable with it. They allow for scalability and specialized functions. #Sidechains #Blockchain",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 11, 2024 \u00b7 2:44 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 2
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1811411198883045861#m",
+                "text": "\u2699\ufe0f Optimistic Rollups  Optimistic Rollups are Layer 2 solutions that bundle multiple transactions into a single batch and submit it to the Ethereum mainnet, reducing fees and increasing throughput. #OptimisticRollups #Layer2",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 11, 2024 \u00b7 2:44 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 1
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1811411191513907243#m",
+                "text": "\ud83c\udf10 Cosmos  Cosmos is a network of interoperable blockchains, enabling them to communicate and transfer assets seamlessly. It aims to create an \"Internet of Blockchains.\" #Cosmos #ModularChain",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 11, 2024 \u00b7 2:44 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1811411187575267525#m",
+                "text": "\ud83d\udd17 Celestia  Celestia is a modular blockchain focused on data availability and consensus, enabling other chains to handle execution. This separation allows for greater scalability. #Celestia #ModularChain",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 11, 2024 \u00b7 2:44 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1811411182340776000#m",
+                "text": "\ud83d\udd27 What is a Modular Chain?  Modular chains separate the functions of consensus, data availability, and execution into different layers or modules, enhancing scalability and flexibility. #ModularChain #Blockchain",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 11, 2024 \u00b7 2:44 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 2
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1811411178410639489#m",
+                "text": "\ud83c\udf00 Polygon (formerly Matic)  Polygon is a Layer 2 scaling solution for Ethereum. It provides faster and cheaper transactions while leveraging the security of the Ethereum mainnet. #Polygon #Layer",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 11, 2024 \u00b7 2:44 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1811411174879113252#m",
+                "text": "\u26a1 Lightning Network  The Lightning Network is a Layer 2 solution for Bitcoin, designed to enable faster and cheaper transactions by processing them off-chain. #LightningNetwork #Layer2",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 11, 2024 \u00b7 2:44 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 3,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1811411170449842652#m",
+                "text": "\ud83d\udd04 What is Layer 2?  Layer 2 solutions are protocols built on top of Layer 1 blockchains to enhance scalability and efficiency. They process transactions off the main chain and settle them on the Layer 1 chain. #Layer2 #Blockchain",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 11, 2024 \u00b7 2:44 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 2
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1811411164477223302#m",
+                "text": "\ud83d\udd17 Solana (SOL)  Solana is a high-performance Layer 1 blockchain known for its fast transaction speeds and low fees. It\u2019s designed to support scalable decentralized applications (dApps). #Solana #Layer1",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 11, 2024 \u00b7 2:44 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1811411161507651816#m",
+                "text": "\ud83d\udd17 Ethereum (ETH)  Ethereum is another prominent Layer 1 blockchain. It supports smart contracts and decentralized applications (dApps), making it a hub for innovation in the blockchain space. #Ethereum #Layer1",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 11, 2024 \u00b7 2:44 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1811411158575845653#m",
+                "text": "\ud83d\udd17 Bitcoin (BTC)  Bitcoin is the first and most well-known Layer 1 blockchain. It\u2019s primarily used as a store of value and a medium of exchange, known for its decentralization and security. #Bitcoin #Layer1",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 11, 2024 \u00b7 2:44 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1811411155941839181#m",
+                "text": "\ud83c\udf10 What is Layer 1?  Layer 1 blockchains are the foundational, base-layer blockchains that process and finalize transactions. Examples include Bitcoin and Ethereum. They are the core infrastructure of the blockchain ecosystem. #Layer1 #Blockchain",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 11, 2024 \u00b7 2:44 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 2
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1811411153089663254#m",
+                "text": "\ud83d\ude80 Different Blockchain Types Explained! \ud83c\udf10  In the world of blockchain technology, there are various types of blockchains, each with unique characteristics and purposes. Let's explore the different types, from Layer 1 and Layer 2 to modular chains. Join us! #BlockchainTypes",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 11, 2024 \u00b7 2:44 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1810678337553186865#m",
+                "text": "\ud83d\udd0d FOMO (Fear of Missing Out)  FOMO is a term used to describe the anxiety that arises from the fear of missing out on a potentially profitable investment or market opportunity. #FOMO #Crypto",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 9, 2024 \u00b7 2:12 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 0,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1810678334273339842#m",
+                "text": "\ud83d\udcc9 JEET (Panic Seller)  A JEET is a term used to describe someone who sells their cryptocurrency out of panic during a market dip, often resulting in a loss. #JEET #Crypto",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 9, 2024 \u00b7 2:12 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 2,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 1
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1810678328174788822#m",
+                "text": "\ud83d\udcaa HODL (Hold On for Dear Life)  HODL is a misspelled version of \"hold\" and is used to encourage investors to keep holding their crypto assets regardless of market volatility. #HODL #Crypto",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 9, 2024 \u00b7 2:12 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1810678325183918091#m",
+                "text": "\ud83e\ude99 RUG (Rug Pull)  A rug pull is a type of scam where the developers of a cryptocurrency project abruptly withdraw all funds and disappear, leaving investors with worthless tokens. #RugPull #Crypto",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 9, 2024 \u00b7 2:12 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1810678322428330343#m",
+                "text": "\ud83d\udca5 REKT (Wrecked)  REKT is a term used to describe significant financial loss or failure in the crypto market. It usually happens when prices drop sharply and investors lose a lot of money. #REKT #Crypto",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 9, 2024 \u00b7 2:12 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1810678319806910796#m",
+                "text": "\ud83d\udc8e DEGEN (Degenerate)  A DEGEN is a trader or investor who takes high risks, often with little regard for the consequences. They might invest in highly speculative projects or meme coins. #DEGEN #Crypto",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 9, 2024 \u00b7 2:12 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1810678317311570238#m",
+                "text": "\ud83c\udfde\ufe0f Valhalla  In crypto, Valhalla is often used metaphorically to describe a state of ultimate success or achieving massive gains. It's a nod to the mythical hall of slain warriors in Norse mythology. #Valhalla #Crypto",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 9, 2024 \u00b7 2:12 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 1
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1810678314471661733#m",
+                "text": "\ud83c\udfae GG (Good Game)  GG is a term borrowed from gaming, used to show appreciation for a well-played game. In crypto, it can mean acknowledgment of a significant event or a well-executed trade. #GG #Crypto",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 9, 2024 \u00b7 2:12 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1810678311812825241#m",
+                "text": "\ud83d\ude22 NGMI (Not Gonna Make It)  NGMI is the opposite of WAGMI. It\u2019s used to describe someone who is making poor decisions or is pessimistic about their success in the crypto space. #NGMI #Crypto",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 9, 2024 \u00b7 2:12 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1810678309052674231#m",
+                "text": "\ud83d\udcaa WAGMI (We're All Gonna Make It)  WAGMI is a term used to express optimism and solidarity within the crypto community. It signifies the belief that everyone in the space will succeed together. #WAGMI #Crypto",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 9, 2024 \u00b7 2:12 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1810678306519269519#m",
+                "text": "\ud83d\udd0d CT (Crypto Twitter)  Crypto Twitter is a term used to describe the community of cryptocurrency enthusiasts, traders, and influencers on Twitter. It's a hub for news, discussions, and memes related to crypto. #CryptoTwitter #CT",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 9, 2024 \u00b7 2:12 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 0
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1810678303948243438#m",
+                "text": "\ud83d\ude80 Crypto Slang Explained Series! \ud83c\udf10  Let's dive into some popular terms and slang you need to know to navigate the space confidently. Join us for an in-depth look! #CryptoSlang #Crypto #Blockchain",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 9, 2024 \u00b7 2:12 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 2
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1810421490212360449#m",
+                "text": "\ud83d\udd0d What is Tokenomics?  Tokenomics is the study of the economics of a cryptocurrency token, including its creation, distribution, supply, and demand. It combines economic principles with blockchain technology to design and manage digital assets. #Tokenomics #Crypto",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 8, 2024 \u00b7 9:11 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 0,
+                    "retweets": 3,
+                    "quotes": 1,
+                    "likes": 3
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1809983632754561524#m",
+                "text": "\ud83d\udd12 Security Tips for P2E Gaming  - \ud83d\udee1\ufe0f **Secure Your Wallet**: Use strong passwords and two-factor authentication. - \ud83c\udfaf **Avoid Scams**: Be cautious of fake games and phishing attempts. - \ud83d\udd04 **Stay Updated**: Keep your game and wallet software up-to-date.",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 7, 2024 \u00b7 4:11 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 0,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 3
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1809983628941930510#m",
+                "text": "\ud83d\udcc8 How to Start Playing P2E Games  1\ufe0f\u20e3 **Choose a Game**: Select a P2E game that interests you. 2\ufe0f\u20e3 **Set Up a Wallet**: Use a crypto wallet to manage your in-game earnings. 3\ufe0f\u20e3 **Start Playing**: Engage in the game\u2019s activities to start earning.",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 7, 2024 \u00b7 4:11 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 3
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1809983621479923726#m",
+                "text": "\ud83d\udca1 Benefits of P2E Gaming  - \ud83d\udcb0 **Earning Potential**: Players can earn real money. - \ud83c\udf0d **Global Access**: Anyone with an internet connection can participate. - \ud83c\udfae **Ownership**: Players truly own their in-game assets.",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 7, 2024 \u00b7 4:11 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 2
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1809983618439139682#m",
+                "text": "\ud83c\udf1f Popular P2E Games  - \ud83d\udc09 **Axie Infinity**: Players breed, battle, and trade fantasy creatures called Axies. - \ud83d\udee1\ufe0f **The Sandbox**: A virtual world where players can create, own, and monetize gaming experiences. - \ud83c\udf10 **Decentraland**: A decentralized virtual world",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 7, 2024 \u00b7 4:11 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 2
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1809983615436001566#m",
+                "text": "\ud83c\udf10 How P2E Games Work  In P2E games, players are rewarded with tokens or NFTs for their in-game achievements. These digital assets can be traded, sold, or used within the game\u2019s ecosystem. It\u2019s a new way for gamers to monetize their skills and time. #Crypto #NFTs",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 7, 2024 \u00b7 4:11 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 5
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1809983611069673613#m",
+                "text": "\ud83d\udd0d What is Play-to-Earn?  Play-to-Earn (P2E) games allow players to earn real-world value through in-game activities. Players can earn cryptocurrency, NFTs, or other digital assets by playing the game and completing tasks",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 7, 2024 \u00b7 4:11 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 4
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1809638484237512819#m",
+                "text": "\ud83d\udcc8 Risks and Considerations  - \u23f3 **Lock-Up Periods**: Your tokens may be locked for a set period. - \ud83d\udd04 **Market Volatility**: Token value can fluctuate. - \ud83d\udd12 **Validator Risk**: Choose reliable validators to avoid penalties.",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 6, 2024 \u00b7 5:20 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 0,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 3
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1809638481272152182#m",
+                "text": "\ud83d\udca1 How to Start Staking  1\ufe0f\u20e3 **Choose a PoS Blockchain**: Select a network like Ethereum, Cardano, or Polkadot. 2\ufe0f\u20e3 **Set Up a Wallet**: Use a compatible wallet to hold and stake your tokens. 3\ufe0f\u20e3 **Delegate or Stake Directly**: Either delegate to a validator or stake directly",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 6, 2024 \u00b7 5:20 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 3
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1809638478151565706#m",
+                "text": "\ud83d\udd11 Popular Staking Platforms  - \ud83d\udd37 **Ethereum 2.0**: Transitioning to PoS with staking rewards for ETH holders. - \ud83c\udf10 **Cardano (ADA)**: Known for its secure and scalable PoS network. - \ud83d\ude80 **Polkadot (DOT)**: Enables staking for network governance and security.",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 6, 2024 \u00b7 5:20 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 2
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1809638475165036775#m",
+                "text": "\ud83c\udf1f Benefits of Staking  - \ud83d\udcb8 **Earn Rewards**: Passive income through staking rewards. - \ud83d\udee1\ufe0f **Network Security**: Strengthens the blockchain network. - \ud83c\udf31 **Eco-Friendly**: More energy-efficient than Proof of Work (PoW).",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 6, 2024 \u00b7 5:20 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 2
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1809638470446383397#m",
+                "text": "\ud83c\udf10 How Staking Works  When you stake your tokens, you contribute to the network\u2019s security and efficiency. Your staked tokens help validate transactions and create new blocks. In exchange, you receive staking rewards. #Blockchain #CryptoRewards",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 6, 2024 \u00b7 5:20 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 4
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1809638463437693173#m",
+                "text": "\ud83d\udd0d What is Staking?  Staking involves locking up your cryptocurrency in a blockchain network to support its operations. In return, you earn rewards, usually in the form of additional tokens. It\u2019s a key feature of Proof of Staking",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 6, 2024 \u00b7 5:20 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 3
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1809221476555325923#m",
+                "text": "\ud83d\udd12 Security Tips for Airdrops  - \ud83d\udea8 **Beware of Scams**: Only participate in reputable airdrops. - \ud83d\udd11 **Protect Private Keys**: Never share your private keys. - \ud83d\udce7 **Verify Sources**: Ensure the airdrop is from an official source.",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 5, 2024 \u00b7 1:43 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 0,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 4
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1809221474030432622#m",
+                "text": "\ud83d\udca1 Why Airdrops Matter  Airdrops help projects gain traction, build a community, and distribute tokens widely. They also allow users to become early adopters and benefit from potential token value appreciation.  #Blockchain",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 5, 2024 \u00b7 1:43 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 5
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1809221471186653272#m",
+                "text": "\ud83c\udf1f Types of Airdrops  - \ud83c\udf81 **Standard Airdrop**: Tokens are given for free to existing wallet holders. - \ud83c\udfaf **Bounty Airdrop**: Tokens are earned by completing tasks  on social media. - \ud83d\udcbc **Holder Airdrop**: Tokens are distributed to holders of a specific crypto",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 5, 2024 \u00b7 1:43 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 3
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1809221467915051338#m",
+                "text": "\ud83c\udf10 How Airdrops Work  Crypto projects distribute tokens to users\u2019 wallets, usually for free. Users may need to hold a specific cryptocurrency, complete certain tasks, or simply be part of the project\u2019s community. #Blockchain #Crypto",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 5, 2024 \u00b7 1:43 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 5
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1809221464643473509#m",
+                "text": "\ud83d\udd0d What is an Airdrop?  An airdrop is a method used by cryptocurrency projects to distribute free tokens to users. It\u2019s often used as a marketing strategy to raise awareness and encourage adoption of a new project. #Airdrop #Crypto",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 5, 2024 \u00b7 1:43 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 4
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1808906837728632927#m",
+                "text": "\ud83c\udf1f Solana Community  Solana boasts a vibrant and active community of developers, enthusiasts, and supporters. Community-driven initiatives and events contribute to its growth and success. #SolanaCommunity #Crypto",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 4, 2024 \u00b7 4:52 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 0,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 3
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            {
+                "link": "https://twitter.com/wallet_hunter/status/1808906834444464355#m",
+                "text": "\ud83d\udd12 Security and Decentralization  Solana\u2019s security model combines PoS with PoH to secure the network and prevent fraud. Its decentralized nature ensures that no single entity controls the network, promoting trust and transparency. #CryptoSecurity #Blockchai",
+                "user": {
+                    "name": "Wallet Hunter",
+                    "username": "@wallet_hunter",
+                    "profile_id": "1647542899960164352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1647542899960164352/KoCiPa0z_bigger.jpg"
+                },
+                "date": "Jul 4, 2024 \u00b7 4:52 PM UTC",
+                "is-retweet": false,
+                "is-pinned": false,
+                "external-link": "",
+                "replying-to": [],
+                "quoted-post": {},
+                "stats": {
+                    "comments": 1,
+                    "retweets": 0,
+                    "quotes": 0,
+                    "likes": 3
+                },
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            }
+        ],
+        "threads": []
+    }
+}
